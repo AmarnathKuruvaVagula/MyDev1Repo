@@ -2,4 +2,9 @@
 X=25
 Y=15
 
+https://github.com/AmarnathKuruvaVagula/Github.git
+
+http://98.91.187.191:8080/github-webhook/
+
+/var/lib/jenkins/workspace/MyJenkinsPipeline
 
